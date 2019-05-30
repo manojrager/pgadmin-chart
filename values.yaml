@@ -17,7 +17,7 @@ ingress:
     externalDNSName: pgadmin.example.com
 pgadmin:
   username: pgadmin4@pgadmin.org
-  #password: admin
+  password: admin
 persistence:
   enabled: true
   #storageClass:
